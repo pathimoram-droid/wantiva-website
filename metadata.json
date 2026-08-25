@@ -1,0 +1,6 @@
+{
+  "name": "WANTIVA",
+  "description": "Modern, mobile-first multilingual news and information platform featuring News Portal, AI Studio, and Creator Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
